@@ -1,1 +1,1 @@
-link:https://task1infotrixs.s3.ap-south-1.amazonaws.com/portfolio.html
+link:http://task1infotrixs.s3-website.ap-south-1.amazonaws.com
